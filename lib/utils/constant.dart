@@ -1,0 +1,1 @@
+String AppName = "youtube (myApp)";
